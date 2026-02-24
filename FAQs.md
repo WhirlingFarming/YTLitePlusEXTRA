@@ -27,8 +27,10 @@
   <summary>When I try to play a video, I get "<strong>Something went wrong. Refresh and try again later.</strong>" error.</summary>
     <p>Before jumping to conclusions:</p>
       <p>This is <strong>NOT</strong> caused by ad blocking.</p>
-    <p>The issue is your account gets YouTube banned or flagged. Try avaliable workarounds below.</p>
-    <p><strong>Avaliable Workarounds</strong></p>
+        <p>This is <strong>NOT</strong> because your account was magically flagged</p>
+      <p>This is <strong>NOT</strong> due to your account being secretly blacklisted</p>
+    <p>The issue seems to lie on YouTube's PoToken security guard as suggested <a href="https://github.com/Tonwalter888/YTLitePlusEXTRA/issues/14#issuecomment-3924514916">here</a>.</p>
+    <p><strong>Possible temporary workarounds</strong></p>
     <p>Try one of these:</p>
       <li>Use YouTube version 19.49.5 or below. But you may get "<strong>This content isn't available, try again later.</strong>" error instead.</li>
       <li>Sign out from your Google account and watch YouTube without signing in.</li>
